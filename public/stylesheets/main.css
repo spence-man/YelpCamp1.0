@@ -1,0 +1,80 @@
+body {
+      background-color: #dabc9c;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+    color: #fff;
+}
+
+
+
+#card-img {
+    width: 100%;
+    height: 160px;
+    display: block;
+}
+
+#card{        
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.jumbotron {
+ background: url("http://i.imgur.com/bk9odA0.jpg") no-repeat center center; 
+   background-size: cover;
+height: 100%
+}
+
+.jumbotron .h1, .jumbotron h1, .jumbotron p {
+  color: white;
+}
+
+.jumbotron .container {
+    padding-top: 40px;
+}
+
+.navbar-default {
+  background-color: #b17652;
+  border:none;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  margin-left: 125px;
+}
+
+footer {
+  width: 100%;
+  height: 60px;
+text-align: center;
+}
+
+.text-muted {
+     color:#fff;
+}
+
+.center-div {
+
+    margin-top: 50px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.form-control {
+  width: 100%;
+  }
+
